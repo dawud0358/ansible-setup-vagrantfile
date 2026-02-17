@@ -9,7 +9,8 @@ An ansible Vagrantfile for our setup
     Create and Initialize the Vagrant Environment:
         Save the above Vagrantfile to a directory of your choice.
         Open a terminal and navigate to the directory containing the Vagrantfile.
-        Run vagrant up to start and provision the VMs. This process will download the necessary Vagrant boxes and configure the VMs according to the Vagrantfile. 
+        Run vagrant up to start and provision the VMs. This process will download the necessary Vagrant boxes and configure the VMs according to the Vagrantfile.
+        
     ## Access the VMs:
         You can SSH into any of the VMs using the following commands:
 
